@@ -1,47 +1,58 @@
-# Hi 👋, I'm Muhammad Sayyid
+<h1 align="center" style="color: #F9A826;">Hi there, I'm Muhammad Sayyid 👋</h1>
 
-**Aspiring Software Architect | Web Developer | Backend Enthusiast**
+<p align="center" style="font-style: italic; color: #E8E8E8;">
+  <i>Aspiring Software Architect | Web Developer | Backend Enthusiast</i>
+</p>
 
----
+<hr style="border: 1px solid #F9A826; width: 50%;">
 
-### 💡 What I Do
+### 👨‍💻 About Me
+- 🧑‍💻 Software Engineer passionate about designing and building robust, scalable web applications.
+- 🌱 Currently deepening my knowledge in **Backend Development** with **Python** and **Flask**.
+- 🎯 Goal: To become a skilled **Software Architect** and develop complex backend systems.
+- 📖 Exploring **React Native** for mobile app development (not pursuing mobile dev but enjoy the exploration).
+- ✨ Always eager to learn new skills and stay updated with the latest technologies.
 
-- **Frontend**: JavaScript, React, HTML, CSS
-- **Backend**: Python, Flask, Node.js
-- **Mobile**: React Native
+<hr style="border: 1px solid #F9A826; width: 50%;">
 
----
+### 🛠️ Tech Stack & Skills
 
-### 🌱 Currently Learning
-- Advanced Backend Architectures
-- System Design
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
----
-
-### Skills 💪
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
-
----
+<hr style="border: 1px solid #F9A826; width: 50%;">
 
 ### 📊 GitHub Statistics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SayyeedDeveloper&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SayyeedDeveloper&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=SayyeedDeveloper&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SayyeedDeveloper&show_icons=true&theme=dark&bg_color=0D1117&text_color=F9F9F9&icon_color=F9A826&title_color=F9A826" alt="SayyeedDeveloper's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayyeedDeveloper&layout=compact&theme=dark&bg_color=0D1117&text_color=F9F9F9&icon_color=F9A826&title_color=F9A826" alt="Top Languages" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=SayyeedDeveloper&theme=dark&background=0D1117&stroke=F9F9F9&ring=F9A826&fire=F9A826&currStreakLabel=F9A826" alt="GitHub Streak" height="150" />
+</div>
 
----
+<hr style="border: 1px solid #F9A826; width: 50%;">
 
-### 📫 Contact Me
-- **Telegram**: [tursunov_muhammadsayyid](https://t.me/tursunov_muhammadsayyid)
-- **Instagram**: [tursunov_muhammadsayyid](https://instagram.com/tursunov_muhammadsayyid)
+### 🔗 Connect with Me
 
----
-
-### Socials 🌐
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/SayyeedDeveloper)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/sayyeeddeveloper)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/tursunov_muhammadsayyid)
+<p align="center">
+  <a href="https://github.com/SayyeedDeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sayyeeddeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tursunov_muhammadsayyid" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/tursunov_muhammadsayyid" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
