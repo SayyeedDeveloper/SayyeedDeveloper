@@ -35,7 +35,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayyeedDeveloper&show_icons=true&theme=dark&bg_color=0D1117&text_color=F9F9F9&icon_color=F9A826&title_color=F9A826" alt="SayyeedDeveloper's GitHub stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayyeedDeveloper&layout=compact&theme=dark&bg_color=0D1117&text_color=F9F9F9&icon_color=F9A826&title_color=F9A826" alt="Top Languages" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=SayyeedDeveloper&theme=dark&background=0D1117&stroke=F9F9F9&ring=F9A826&fire=F9A826&currStreakLabel=F9A826" alt="GitHub Streak" height="150" />
 </div>
 
 <hr style="border: 1px solid #F9A826; width: 50%;">
