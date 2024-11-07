@@ -1,4 +1,6 @@
-![Black and White Simple Minimalist Futuristic Gaming YouTube Banner](https://github.com/user-attachments/assets/c490f228-31ee-4868-afcb-300982b9eacd)
+![Untitled design (1)](https://github.com/user-attachments/assets/103c141e-8b45-43e4-bab1-b79d1dc59a94)
+
+
 <h1 align="center" style="color: #F9A826;">Hi there, I'm Muhammad Sayyid 👋</h1>
 
 <p align="center" style="font-style: italic; color: #E8E8E8;">
