@@ -1,3 +1,4 @@
+![Black and White Simple Minimalist Futuristic Gaming YouTube Banner](https://github.com/user-attachments/assets/c490f228-31ee-4868-afcb-300982b9eacd)
 <h1 align="center" style="color: #F9A826;">Hi there, I'm Muhammad Sayyid 👋</h1>
 
 <p align="center" style="font-style: italic; color: #E8E8E8;">
@@ -33,8 +34,8 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayyeedDeveloper&show_icons=true&theme=dark&bg_color=0D1117&text_color=F9F9F9&icon_color=F9A826&title_color=F9A826" alt="SayyeedDeveloper's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayyeedDeveloper&layout=compact&theme=dark&bg_color=0D1117&text_color=F9F9F9&icon_color=F9A826&title_color=F9A826" alt="Top Languages" height="150" />
+ <img src="https://github-readme-stats.vercel.app/api?username=SayyeedDeveloper&show_icons=true&theme=dark&bg_color=0D1117&text_color=F9F9F9&icon_color=89CFF0&title_color=89CFF0" alt="Muhammad Sayyid's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayyeedDeveloper&layout=compact&theme=dark&bg_color=0D1117&text_color=F9F9F9&icon_color=89CFF0&title_color=89CFF0" alt="Top Languages" height="150" />
 </div>
 
 <hr style="border: 1px solid #F9A826; width: 50%;">
