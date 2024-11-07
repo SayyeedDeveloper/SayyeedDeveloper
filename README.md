@@ -1,6 +1,4 @@
-![Untitled design (1)](https://github.com/user-attachments/assets/103c141e-8b45-43e4-bab1-b79d1dc59a94)
-
-
+![Untitled design (2)](https://github.com/user-attachments/assets/b62a7283-9c17-4cc3-a7c3-cc8682211d15)
 <h1 align="center" style="color: #F9A826;">Hi there, I'm Muhammad Sayyid 👋</h1>
 
 <p align="center" style="font-style: italic; color: #E8E8E8;">
@@ -16,7 +14,7 @@
 - 📖 Exploring **React Native** for mobile app development (not pursuing mobile dev but enjoy the exploration).
 - ✨ Always eager to learn new skills and stay updated with the latest technologies.
 
-<hr style="border: 1px solid #F9A826; width: 50%;">
+<hr style="border: 1px solid #36b6ff; width: 50%;">
 
 ### 🛠️ Tech Stack & Skills
 
@@ -31,16 +29,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<hr style="border: 1px solid #F9A826; width: 50%;">
+<hr style="border: 1px solid #36b6ff; width: 50%;">
 
 ### 📊 GitHub Statistics
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=SayyeedDeveloper&show_icons=true&theme=dark&bg_color=0D1117&text_color=F9F9F9&icon_color=89CFF0&title_color=89CFF0" alt="Muhammad Sayyid's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayyeedDeveloper&layout=compact&theme=dark&bg_color=0D1117&text_color=F9F9F9&icon_color=89CFF0&title_color=89CFF0" alt="Top Languages" height="150" />
+ <img src="https://github-readme-stats.vercel.app/api?username=SayyeedDeveloper&show_icons=true&theme=dark&bg_color=0D1117&text_color=36b6ff&icon_color=89CFF0&title_color=36b6ff" alt="Muhammad Sayyid's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayyeedDeveloper&layout=compact&theme=dark&bg_color=0D1117&text_color=36b6ff&icon_color=89CFF0&title_color=36b6ff" alt="Top Languages" height="150" />
 </div>
 
-<hr style="border: 1px solid #F9A826; width: 50%;">
+<hr style="border: 1px solid #36b6ff; width: 50%;">
 
 ### 🔗 Connect with Me
 
